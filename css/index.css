@@ -135,6 +135,7 @@ html {
 html,
 body {
   font-family: 'Roboto', sans-serif;
+  max-width: 100%;
 }
 h1,
 h2,
